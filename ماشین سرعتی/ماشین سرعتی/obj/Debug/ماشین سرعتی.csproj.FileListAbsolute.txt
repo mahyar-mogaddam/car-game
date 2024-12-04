@@ -1,0 +1,9 @@
+C:\Users\MAHYAR\Desktop\C#\عباس پور\ماشین سرعتی\ماشین سرعتی\bin\Debug\ماشین سرعتی.exe.config
+C:\Users\MAHYAR\Desktop\C#\عباس پور\ماشین سرعتی\ماشین سرعتی\obj\Debug\ماشین سرعتی.csprojResolveAssemblyReference.cache
+C:\Users\MAHYAR\Desktop\C#\عباس پور\ماشین سرعتی\ماشین سرعتی\obj\Debug\ماشین_سرعتی.Form1.resources
+C:\Users\MAHYAR\Desktop\C#\عباس پور\ماشین سرعتی\ماشین سرعتی\obj\Debug\ماشین_سرعتی.Properties.Resources.resources
+C:\Users\MAHYAR\Desktop\C#\عباس پور\ماشین سرعتی\ماشین سرعتی\obj\Debug\ماشین سرعتی.csproj.GenerateResource.Cache
+C:\Users\MAHYAR\Desktop\C#\عباس پور\ماشین سرعتی\ماشین سرعتی\bin\Debug\ماشین سرعتی.exe
+C:\Users\MAHYAR\Desktop\C#\عباس پور\ماشین سرعتی\ماشین سرعتی\bin\Debug\ماشین سرعتی.pdb
+C:\Users\MAHYAR\Desktop\C#\عباس پور\ماشین سرعتی\ماشین سرعتی\obj\Debug\ماشین سرعتی.exe
+C:\Users\MAHYAR\Desktop\C#\عباس پور\ماشین سرعتی\ماشین سرعتی\obj\Debug\ماشین سرعتی.pdb
